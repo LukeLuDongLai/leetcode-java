@@ -34,3 +34,4 @@ Focus:
 ### Array
 
 - Maximum Subarray
+- Merge Intervals
