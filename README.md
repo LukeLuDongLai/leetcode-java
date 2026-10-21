@@ -35,3 +35,4 @@ Focus:
 
 - Maximum Subarray
 - Merge Intervals
+- Rotate Array
