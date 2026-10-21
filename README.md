@@ -12,27 +12,28 @@ Focus:
 ## Topics
 
 ### Hashing
-- Two Sum
-- Group Anagrams
-- Longest Consecutive Sequence
+- Q001 Two Sum
+- Q002 Group Anagrams
+- Q003 Longest Consecutive Sequence
 
 ### Two Pointers
-- Move Zeroes
-- Container With Most Water
-- 3Sum
-- Trapping Rain Water
+- Q004 Move Zeroes
+- Q005 Container With Most Water
+- Q006 3Sum
+- Q007 Trapping Rain Water
 
 ### Sliding Window
-- Longest Substring Without Repeating Characters
-- Find All Anagrams in a String
+- Q008 Longest Substring Without Repeating Characters
+- Q009 Find All Anagrams in a String
 
 ### Subarray
-- Subarray Sum Equals K
-- Sliding Window Maximum
-- Minimum Window Substring
+- Q010 Subarray Sum Equals K
+- Q011 Sliding Window Maximum
+- Q012 Minimum Window Substring
 
 ### Array
 
-- Maximum Subarray
-- Merge Intervals
-- Rotate Array
+- Q013 Maximum Subarray
+- Q014 Merge Intervals
+- Q015 Rotate Array
+- Q016 Product of Array Except Self
