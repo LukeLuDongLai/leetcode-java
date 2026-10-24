@@ -37,3 +37,6 @@ Focus:
 - Q014 Merge Intervals
 - Q015 Rotate Array
 - Q016 Product of Array Except Self
+- Q017 First Missing Positive
+- Q018 Set Matrix Zeroes
+- Q019 Spiral Matrix
