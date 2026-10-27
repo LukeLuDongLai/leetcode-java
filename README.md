@@ -40,3 +40,4 @@ Focus:
 - Q017 First Missing Positive
 - Q018 Set Matrix Zeroes
 - Q019 Spiral Matrix
+- Q020 Rotate Image
