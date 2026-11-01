@@ -32,7 +32,6 @@ Focus:
 - Q012 Minimum Window Substring
 
 ### Array
-
 - Q013 Maximum Subarray
 - Q014 Merge Intervals
 - Q015 Rotate Array
@@ -41,3 +40,7 @@ Focus:
 - Q018 Set Matrix Zeroes
 - Q019 Spiral Matrix
 - Q020 Rotate Image
+- Q021 Search a 2D Matrix II
+
+### Linked List
+- Q022 Intersection of Two Linked Lists
