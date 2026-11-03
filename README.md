@@ -45,3 +45,4 @@ Focus:
 ### Linked List
 - Q022 Intersection of Two Linked Lists
 - Q023 Reverse Linked List
+- Q024 Palindrome Linked List
