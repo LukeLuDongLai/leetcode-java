@@ -46,3 +46,5 @@ Focus:
 - Q022 Intersection of Two Linked Lists
 - Q023 Reverse Linked List
 - Q024 Palindrome Linked List
+- Q025 Linked List Cycle
+- Q026 Linked List Cycle II
