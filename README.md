@@ -50,3 +50,4 @@ Focus:
 - Q026 Linked List Cycle II
 - Q027 Merge Two Sorted Lists
 - Q029 Remove Nth Node From End of List
+- Q030 Swap Nodes in Pairs
